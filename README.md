@@ -55,7 +55,7 @@ cd media_catalogue
 3. Run the program:
 
 ```bash
-python main.py
+python media_catalogue.py
 ```
 
 # Example Output
@@ -79,6 +79,7 @@ https://www.freecodecamp.org/learn
 Glory Kinya
 GitHub: https://github.com/kiki-glow
 
+---
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OOP](https://img.shields.io/badge/OOP-Object--Oriented-green)
